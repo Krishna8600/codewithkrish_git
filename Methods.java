@@ -3,6 +3,19 @@ class Methods
 	int a = 100;
 	int b = 200;
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
 	void sum()//sumission of two numbers
 	{
 		System.out.println(a+b);
